@@ -1,10 +1,10 @@
-const contractAddress = "0x0AEB78b217E79029E9988bACD6F799c8bb018231"; //Replace with your own contract address
+const contractAddress = "0x4f72C9218a688EfF08953B1Bd8254b53184E273a"; //Replace with your own contract address
 const chain = "rinkeby"; // rinkeby or polygon
 
 const welcome_h1 = "MUSEUM OF KYIV";
 const welcome_h2 = "Connect to MetaMask to Get Started";
 const welcome_p =
-  "This is the official collection of Digital Art NFTs residing in the Blockchain owned by the museum of kyiv and approved by the Ministry of digital trasformation of Ukraine to be sold.  Це офіційна колекція цифрового мистецтва NFT, розташована в блокчейні, що належить Музею Києва та затверджена Міністерством цифрової трансформації України для продажу.";
+  "This is the official collection of Digital Art NFTs residing in the Blockchain owned by the museum of kyiv and approved by the Ministry of digital trasformation of Ukraine to be sold.  \n\n Це офіційна колекція цифрового мистецтва NFT, розташована в блокчейні, що належить Музею Києва та затверджена Міністерством цифрової трансформації України для продажу.";
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
