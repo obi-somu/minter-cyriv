@@ -1,5 +1,5 @@
 const contractAddress = "0x4f72C9218a688EfF08953B1Bd8254b53184E273a"; //Replace with your own contract address
-const chain = "rinkeby"; // rinkeby or polygon
+const chain = "polygon"; // rinkeby or polygon
 
 const welcome_h1 = "MUSEUM OF KYIV";
 const welcome_h2 = "Connect to MetaMask to Get Started";
